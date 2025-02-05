@@ -1,0 +1,37 @@
+--Fadhilah Ruhiyah--
+--200511102--
+--UMC--
+
+
+#ADMIN
+username: fadd
+pass	: 123
+
+
+#OWNER
+username: fadhil
+pass	: 123
+
+
+#KASIR
+username: ikbal
+pass	: 123
+
+
+#WAITER
+username: danu
+pass	: 123
+
+username: amal
+pass	: 123
+
+username: faqih
+pass	: 123
+
+username: haris
+pass	: 123
+
+
+#PELANGGAN
+username: pelanggan
+pass	: 123
