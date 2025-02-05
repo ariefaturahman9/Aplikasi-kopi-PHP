@@ -1,15 +1,15 @@
---Fadhilah Ruhiyah--
---200511102--
+--Arie Faturahman--
+--200511072--
 --UMC--
 
 
 #ADMIN
-username: fadd
+username: rie
 pass	: 123
 
 
 #OWNER
-username: fadhil
+username: arie
 pass	: 123
 
 
